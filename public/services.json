@@ -1,0 +1,47 @@
+
+
+
+[
+    {
+        "id": 1,
+        "name": "Hotpink Lesum",
+        "details": ".. The parcel Hotpink Lesum is used as an identifier on your local parcel maps and it has a unique format",
+        "price": "$ 10.99",
+        "img": "https://image.freepik.com/free-photo/food-delivery-quarantine-stay-home-order-online-concept-friendly-bearded-courier-red-uniform_1258-58283.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hand Wash Powder",
+        "details": "The parcel Hand Wash Powder is used as an identifier on your local parcel maps and it has a unique format",
+        "price": "$ 7.99",
+        "img": "https://image.freepik.com/free-photo/man-by-truck-guy-delivery-uniform_1157-46170.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Custom Parcel",
+        "details": "The parcel number is used as an identifier on your local parcel maps and it has a unique format",
+        "price": "$ 11.99",
+        "img": "https://image.freepik.com/free-photo/writing-address-box_1098-21122.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Notepole Wash",
+        "details": "A parcel number is assigned by your local tax assessment office and is used to help identify your property for tax.",
+        "price": "$ 8.99 ",
+        "img": "https://image.freepik.com/free-photo/packages-parcels-delivery-covid-19-quarantine-transfer-orders-confident-courier-red-uniform-gloves-medical-mask-encourage-call-service-show-thumb-up-lean-boxes_1258-58721.jpg"
+    },
+    {
+        "id": 5,
+        "name": "CosMetics Beauty Cream",
+        "details": "a defined piece of real estate, usually resulting from the division of a large area of land..",
+        "price": "$ 4.99",
+        "img": "https://image.freepik.com/free-photo/delivery-concept-portrait-happy-african-american-delivery-man-holding-box-packages-showing-thumps-up-isolated-grey-studio-background-copy-space_1258-1174.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Splinder",
+        "details": ".. The parcel number is used as an identifier on your local parcel maps and it has a unique format",
+        "price": "$ 6.99",
+        "img": "https://image.freepik.com/free-photo/medium-shot-woman-receiving-pack_23-2149035935.jpg"
+    }
+]
