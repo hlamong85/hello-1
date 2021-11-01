@@ -1,0 +1,16 @@
+.banner{
+    height: 900px;
+}
+
+#carousel{
+    padding-bottom: 200px;
+    color: rgb(238, 243, 236);
+    font-weight: 700;
+}
+
+@media only screen and (max-width:688px) {
+    .banner{
+        height: 300px;
+    }
+      
+}
